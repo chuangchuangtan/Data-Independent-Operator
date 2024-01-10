@@ -1,8 +1,8 @@
 # Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection
 
-[Chuangchuang Tan](https://scholar.google.com/citations?user=ufR1PmMAAAAJ&hl=zh-CN), [Yao Zhao](https://scholar.google.com/citations?hl=zh-CN&user=474TbQYAAAAJ), [Guanghua Gu](), [Ping Liu](https://sites.google.com/site/pingliu264/), [Yunchao Wei](https://weiyc.github.io/)
+[Chuangchuang Tan](https://scholar.google.com/citations?user=ufR1PmMAAAAJ&hl=zh-CN), [Yao Zhao](https://scholar.google.com/citations?hl=zh-CN&user=474TbQYAAAAJ), [Ping Liu](https://sites.google.com/site/pingliu264/), [Guanghua Gu](), [ShiKui Wei](), [Baoyuan Wu](), [Yunchao Wei](https://weiyc.github.io/)
 
-Beijing Jiaotong University, YanShan University, A*Star 
+Beijing Jiaotong University, YanShan University, A*Star, CUHK
 
 Reference github repository for the paper [Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection]().
 
