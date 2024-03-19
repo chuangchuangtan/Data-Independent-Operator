@@ -4,7 +4,7 @@
 
 Beijing Jiaotong University, YanShan University, A*Star, CUHK
 
-Reference github repository for the paper [Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection]().
+Reference github repository for the paper [Data-Independent Operator: A Training-Free Artifact Representation Extractor for Generalizable Deepfake Detection](https://arxiv.org/abs/2403.06803).
 
 :star: If Our code is helpful to your images or projects, please help star this repo. Thanks! :hugs:
 
@@ -17,8 +17,7 @@ Reference github repository for the paper [Data-Independent Operator: A Training
 
 
 ### TODO
-- [ ] Pre-Trained Model release
-- [ ] Update link to paper and project page  
+- ~~[ ] Update link to paper~~  
 - [ ] Pretrained models 
 - [ ] Dataset download  
 - [ ] Code released
